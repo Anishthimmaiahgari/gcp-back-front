@@ -57,7 +57,7 @@ function AWSCredentials() {
           <div className="flex items-center">
             {/* Bilvantis Logo with hover effect */}
             <img
-              src="https://bilvantis.io/wp-content/uploads/2022/12/Bilvantis-logo-png.jpg"
+              src="https://th.bing.com/th/id/OIP.PQzWQzdJEXwoGdeuUfsnUAHaCL?rs=1&pid=ImgDetMain"
               alt="Bilvantis Logo"
               className="h-8 mr-3 rounded hover:scale-105 transition-transform duration-200"
             />
